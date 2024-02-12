@@ -1,0 +1,34 @@
+.main_user_projects_container_1 {
+  display: flex;
+  margin-right: 80px;
+}
+
+.content_projects_container {
+  margin-top: 50px;
+  margin-left: 250px;
+}
+
+.user_table_head_projects {
+  background-color: #001f3f !important;
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
+
+.user_table_header_projects {
+  padding: 12px;
+  text-align: center;
+  border-bottom: 1px solid #001f3f !important;
+  border: 1px solid #001f3f !important;
+}
+
+.table_data_user {
+  font-weight: 500;
+  padding: 12px;
+  border-bottom: 1px solid #001f3f !important;
+  border: 1px solid #001f3f !important;
+}
+
+.add_forma_project_container {
+  margin-left: 580px;
+}

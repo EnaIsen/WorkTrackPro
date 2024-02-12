@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.container_row {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 1rem 5rem 2rem 5rem !important;
+  margin: 10px;
+}
+
+.text_edit {
+  font-weight: bold;
+}
+
+.copyright {
+  justify-content: left;
+  margin: 15px;
+}
+
+.div_edit {
+  padding: 5px 5px 5px 5px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.link_edit {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: #2ecc40;
+}

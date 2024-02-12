@@ -1,0 +1,75 @@
+.right_5 {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 50px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-left: 10px;
+  margin-right: 10px;
+  max-height: 420px;
+  margin-top: 40px;
+}
+
+.container_form_3 {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.work_hours_form {
+  display: flex;
+  flex-direction: column;
+  max-height: 300px;
+}
+
+.form_group_1 {
+  margin-bottom: 20px;
+}
+
+.form_select_1,
+.form_input_1 {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.form_button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.form_button:hover {
+  background-color: #45a049;
+}
+
+.content_container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.right_1 {
+  width: 500px;
+  margin-right: 10px;
+}
+
+.table_container {
+  width: 700px;
+}
+
+.menadzer_table {
+  display: flex;
+  margin-left: 250px;
+}
+
+.button_workHours {
+  margin-left: 170px;
+}

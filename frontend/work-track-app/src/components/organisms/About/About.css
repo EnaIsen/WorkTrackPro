@@ -1,0 +1,27 @@
+.middle-container {
+  text-align: left;
+  margin: auto;
+  max-width: 1000px;
+  font-family: "Arial", sans-serif;
+  padding: 20px;
+}
+
+.middle-container h1 {
+  font-size: 2rem;
+  color: black;
+}
+
+.middle-container p {
+  font-size: 25px;
+  color: black;
+  text-align: center;
+}
+
+.heading-middle {
+  text-align: center;
+}
+
+.line-divider {
+  margin-top: 20px;
+  border: 1px solid #001f3f;
+}

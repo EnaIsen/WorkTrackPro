@@ -1,0 +1,39 @@
+.table_workers_container {
+  margin: 50px;
+}
+
+.table_workers {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.table_head_workers {
+  background-color: #39cccc;
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
+
+.table_header_workers,
+.table_data_workers {
+  padding: 12px;
+  text-align: center;
+  border-bottom: 1px solid #39cccc;
+  border: 1px solid #39cccc;
+}
+
+.table_data_workers {
+  font-weight: 500;
+}
+
+.add_worker_container {
+  justify-content: start;
+  display: flex;
+  align-items: center;
+}
+
+.form_container_3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

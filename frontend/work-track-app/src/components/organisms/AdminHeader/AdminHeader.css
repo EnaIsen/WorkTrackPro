@@ -1,0 +1,24 @@
+.header_admin {
+  background-color: #39cccc !important;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo_admin img {
+  background-color: #39cccc !important;
+  width: 300px;
+  height: 95px;
+}
+
+.admin_links {
+  text-decoration: none;
+  color: white;
+}
+
+.admin_text {
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+}

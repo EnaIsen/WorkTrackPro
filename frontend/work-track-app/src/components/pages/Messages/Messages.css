@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+.main_user_projects_container {
+  display: flex;
+}
+
+.content_projects_container {
+  flex: 1;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  margin: 5px 0;
+}
+
+.messages_li:nth-child(even) {
+  border: 2px solid #001f3f;
+}
+
+.messages_li:nth-child(odd) {
+  border: 2px solid #39cccc;
+}
+
+.messages_ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.messages_li {
+  padding: 25px;
+  border: 1px solid #001f3f;
+  margin: 5px;
+  flex: 0 0 calc(33.33% - 20px);
+  box-sizing: border-box;
+  border-radius: 30px;
+}

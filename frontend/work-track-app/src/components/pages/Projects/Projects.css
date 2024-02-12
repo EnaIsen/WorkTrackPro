@@ -1,0 +1,83 @@
+.table-container {
+  margin: 50px;
+  overflow-x: auto;
+}
+
+.table_projects {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.table_head_projects {
+  background-color: #39cccc;
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
+
+.table_header_projects,
+.table_data {
+  padding: 12px;
+  text-align: center;
+  border-bottom: 1px solid #39cccc;
+  border: 1px solid #39cccc;
+}
+
+.table_data {
+  font-weight: 500;
+}
+
+.project_forma_container {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+
+.form_container_2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 768px) {
+  .table_projects {
+    font-size: 12px;
+  }
+  .table_header_projects,
+  .table_data {
+    padding: 5px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .table_row_projects {
+    display: block;
+  }
+  .table_header_projects,
+  .table_data {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+  }
+}
+
+.status-todo {
+  color: green;
+  background-color: white;
+  font-weight: bold;
+}
+
+.status-in-progress {
+  color: orange;
+  background-color: white;
+}
+
+.status-done {
+  color: purple;
+  background-color: white;
+}
+
+.status-in-review {
+  color: pink;
+  background-color: white;
+}

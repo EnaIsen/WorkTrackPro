@@ -1,0 +1,25 @@
+.menu-item_1 {
+  background-color: white !important;
+  color: black !important;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 15px;
+}
+
+.icon_color {
+  color: white;
+}
+.translate_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.translate_container:hover {
+  cursor: pointer;
+}
+.menu-item-icon {
+  margin-right: 10px;
+  font-size: 18px;
+  color: #555;
+}

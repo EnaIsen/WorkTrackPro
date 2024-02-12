@@ -1,0 +1,246 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#light {
+  background-color: #f3ebf6;
+}
+
+#dark {
+  background-color: #616161;
+}
+
+#light p {
+  color: black;
+}
+
+#dark p {
+  color: #bb86fc;
+}
+
+#dark h1 {
+  color: #bb86fc;
+}
+
+#dark .header_main {
+  background-color: #607d8b;
+}
+
+#dark .link_edit {
+  color: #bb86fc;
+}
+
+#dark .icon_cards {
+  background-color: #607d8b;
+}
+
+#dark .sidebar {
+  background-color: #607d8b;
+}
+
+#dark .menu_item span {
+  color: #bb86fc;
+}
+
+#dark .menu_item svg {
+  color: #bb86fc;
+}
+
+#dark .menu_item:hover {
+  background-color: #607d8b;
+}
+
+#dark .user_table_header_projects {
+  background-color: #bb86fc;
+  color: #607d8b;
+}
+
+#dark .status-todo {
+  background-color: #607d8b;
+}
+
+#dark .login_button_1 {
+  background-color: #607d8b;
+}
+
+#dark .right_1 {
+  background-color: #607d8b;
+}
+
+#dark .container_signup {
+  background-color: #616161;
+}
+
+#dark .input_signup {
+  background-color: #bb86fc;
+  color: white;
+  border: 1px solid #bb86fc;
+}
+
+#dark .faq-container {
+  background-color: #607d8b;
+}
+
+#dark .faq-question {
+  background-color: #bb86fc;
+}
+
+#dark .faq-answer {
+  color: #bb86fc;
+}
+
+#dark .section-container {
+  background-color: #bb86fc;
+}
+
+#dark .privacy-container {
+  background-color: #607d8b;
+}
+
+#dark .terms-container {
+  background-color: #607d8b;
+}
+
+#dark .container_login {
+  background-color: #616161;
+}
+
+#dark .left {
+  background-color: #607d8b;
+}
+
+#dark .input_login {
+  background-color: #bb86fc;
+}
+
+#dark .right {
+  background-color: #bb86fc !important;
+}
+
+#dark .heading_login {
+  color: #607d8b;
+}
+
+#dark .signup_button {
+  background-color: #616161;
+}
+
+#dark .login_button {
+  background-color: #bb86fc;
+}
+
+#dark .left_1 {
+  background-color: #bb86fc !important;
+}
+
+#dark .heading_signup {
+  color: #607d8b;
+}
+
+#dark .login_button_1 {
+  background-color: #607d8b;
+}
+
+#dark .container_userProfile {
+  background-color: #616161;
+}
+
+#dark .right_2 {
+  background-color: #607d8b;
+}
+
+#dark .heading_contactUs {
+  color: #bb86fc;
+}
+
+#dark .label_name {
+  color: #bb86fc;
+}
+
+#dark .button_close {
+  background-color: #bb86fc;
+}
+
+#dark .signup_button_1 {
+  background-color: #607d8b;
+}
+
+#dark .table_header_projects {
+  background-color: #bb86fc;
+  border: 1px solid #bb86fc;
+}
+
+#dark .table_data {
+  border: 1px solid #bb86fc;
+}
+
+#dark .status-in-progress {
+  background-color: #607d8b;
+}
+
+#dark .status-done {
+  background-color: #607d8b;
+}
+
+#dark .status-in-review {
+  background-color: #607d8b;
+}
+
+#dark .user-icon-button {
+  background-color: #bb86fc;
+}
+
+#dark .right_5 {
+  background-color: #607d8b;
+}
+
+#dark .change_color {
+  background-color: #bb86fc;
+}
+
+#dark .left_2 {
+  background-color: #bb86fc;
+}
+
+#dark .button_edit {
+  background-color: #607d8b;
+}
+
+#dark .popup {
+  background-color: #607d8b;
+}

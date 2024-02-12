@@ -1,0 +1,33 @@
+.worker_project_forma_container {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+
+.form_container_4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 600px) {
+  .table_data {
+    font-size: 14px;
+    padding: 4px;
+  }
+
+  .custom-button {
+    width: 100%;
+    margin-top: 10px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .table_data {
+    font-size: 12px;
+  }
+
+  .custom-button {
+    font-size: 12px;
+  }
+}
